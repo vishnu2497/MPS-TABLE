@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product version="3" modelHash="7hfqun9j6pzirbru9g3aj46vfjfok8v">
+  <files names="BaseCoceptComment_Editor.java:BaseCoceptComment_EditorBuilder_a.java:EditorAspectDescriptorImpl.java:RootConcept_Editor.java:RootConcept_EditorBuilder_a.java:Rule_Editor.java:Rule_EditorBuilder_a.java:TestCaseComment_Editor.java:TestCaseComment_EditorBuilder_a.java:TestCase_Editor.java:TestCase_EditorBuilder_a.java:TestSuite_Editor.java:TestSuite_EditorBuilder_a.java:TestSuite_SubstituteMenu.java:VariableValue_Editor.java:VariableValue_EditorBuilder_a.java:VariableValue_InspectorBuilder_a.java:VariableValue_SubstituteMenu.java:Variable_Editor.java:Variable_EditorBuilder_a.java:am_TestCase.java" />
+</product>
+
